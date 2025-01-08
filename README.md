@@ -1,5 +1,7 @@
 # Snake Game
 
+![image](https://github.com/user-attachments/assets/ba54f1cb-1e89-4d9f-9405-0c0e9881bc0e)
+
 ## Description
 A simple console-based Snake game implemented in C# using basic programming concepts. The goal of the game is to control a snake to collect apples, avoid collisions with walls, and prevent the snake from biting itself. Each apple collected increases the snake's length and score.
 
@@ -9,8 +11,6 @@ A simple console-based Snake game implemented in C# using basic programming conc
 - Snake movement controlled via arrow keys.
 - Collision detection with walls, snake's body, and apples.
 - Incremental speed increase every 3 apples collected.
-  
-[image](https://github.com/user-attachments/assets/c28419ca-95ab-49e4-ad8b-6e1558872c53)
 
 ## How to Play
 1. Launch the game by running the executable.
