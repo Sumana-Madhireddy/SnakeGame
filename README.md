@@ -42,8 +42,8 @@ A simple console-based Snake game implemented in C# using basic programming conc
 
 ## Key Classes and Methods
 - **Coord**: Represents a coordinate in the grid.
-  - `Equals`: Compares two coordinates.
-  - `ApplyMoveDirection`: Updates the coordinate based on the movement direction.
+- **Equals**: Compares two coordinates.
+- **ApplyMoveDirection**: Updates the coordinate based on the movement direction.
 - **Game Loop**: Controls the game rendering and user input.
 - **Collision Detection**: Ensures the snake doesn't collide with itself or the grid boundaries.
 
