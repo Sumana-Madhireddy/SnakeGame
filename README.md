@@ -63,5 +63,5 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 ## Author
 Sumana Madhireddy
 
-## Credits=
+## Credits
 This project was inspired by a tutorial on The Coders Cat. Thanks to [The Coders Cat] for the guidance and resources.
